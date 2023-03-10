@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings_Lumpkin_Dalton", "Strings_Lumpkin_Dalton\Strings_Lumpkin_Dalton.csproj", "{43EDA8E4-F04F-4FB8-A256-2109EFC9283D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EDA8E4-F04F-4FB8-A256-2109EFC9283D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EDA8E4-F04F-4FB8-A256-2109EFC9283D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EDA8E4-F04F-4FB8-A256-2109EFC9283D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EDA8E4-F04F-4FB8-A256-2109EFC9283D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9DAE98-F8EB-4B31-A2A4-AB29A6BADE7F}
+	EndGlobalSection
+EndGlobal
